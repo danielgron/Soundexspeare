@@ -1,0 +1,2 @@
+ShakespeareTrie.java contains the regular alphabetsorting
+SoundexspeareTrie.java contains soundex alphabetsorting
